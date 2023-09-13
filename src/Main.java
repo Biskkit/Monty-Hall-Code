@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<>();
         double correct = 0;
         for(int i = 0; i < 1000; i++) {
             //iterates through and adds a combination of 0, 0, and 1 to the list
